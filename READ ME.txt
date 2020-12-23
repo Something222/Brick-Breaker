@@ -1,0 +1,3 @@
+The exe is in the folder game builds
+the write up is in the folder write up 
+and the recommended resoulution for the game is 1280x1024 as larger resolutions will waste space as the game was designed for 9:16 in mind
